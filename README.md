@@ -7,7 +7,9 @@
 
 ## File Description
 `MSP430_2.ino`: open with Energia
+
 `run method.doc`: how to run the application
+
 `src/`: source file for VS2012, with requirements for openCV.
 
 
