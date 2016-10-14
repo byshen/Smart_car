@@ -12,5 +12,5 @@
 
 `src/`: source file for VS2012, with requirements for openCV.
 
-
+![](http://oezs68449.bkt.clouddn.com/smart_Car.png)
 More infomation can be found on this [site](http://eelab.sjtu.edu.cn/kc/2014-12/B11/).(in Chinese)
